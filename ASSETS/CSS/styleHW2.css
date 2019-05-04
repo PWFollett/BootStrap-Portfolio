@@ -1,0 +1,35 @@
+body {
+    background-image: url("../Images/fhEwl.png")
+}
+
+.navbar-brand {
+    background-color:  #4aaaa5;
+}
+.navbar-footer {
+    color:#ffff;
+   
+}
+
+img {
+    float: left;
+}
+
+.text-mint {
+    color: #4aaaa5;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 8px solid #4aaaa5;
+}
+.badge{
+    position: relative;
+    top: -31px;
+    left: 5%;
+    background-color: #4aaaa5;
+    color: #ffff;
+    width: 81%;
+    z-index: 2;
+}
